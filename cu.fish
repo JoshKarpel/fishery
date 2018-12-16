@@ -1,3 +1,3 @@
 function cu
-	conda update -y -all
+	conda update -y --all
 end
